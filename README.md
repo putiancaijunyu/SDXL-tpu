@@ -24,7 +24,8 @@ PassWord: 2vky
 
 If you want to get his Server, please mail: 283253717@qq.com to get more information
 
-![](.\img\SE7.png)
+![SE7](https://github.com/putiancaijunyu/SDXL-tpu/assets/16498716/bafa8901-83ac-48ce-b34b-a8d5ba72de5b)
+
 
 
 
